@@ -5,6 +5,6 @@ Signals and Systems with python
 
 
 ## 설명
-학교 과제용을 정리했습니다.
+신호 및 시스템 수업을 정리했습니다.
 
 numpy와 Matplotlib을 이용하여 데이터 처리와 시각화 했습니다
