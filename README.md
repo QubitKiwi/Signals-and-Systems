@@ -1,7 +1,7 @@
 # Signals-and-Systems
 Signals and Systems with python
-![image](https://user-images.githubusercontent.com/68237656/172333772-f81f45e4-3e31-4661-8f04-cd0260294d7c.png)
-![image](https://user-images.githubusercontent.com/68237656/172333796-b18fcde7-9c33-46f7-ba64-7016ff61abc7.png)
+
+![image](https://user-images.githubusercontent.com/68237656/172333772-f81f45e4-3e31-4661-8f04-cd0260294d7c.png) ![image](https://user-images.githubusercontent.com/68237656/172333796-b18fcde7-9c33-46f7-ba64-7016ff61abc7.png)
 
 
 ## 설명
